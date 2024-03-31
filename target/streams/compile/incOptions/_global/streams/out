@@ -1,0 +1,12 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\nimmy\AppData\Local\Temp\c56a6f28-6198-4874-a1cb-de27eb9634ef_akka-quickstart-scala.zip.4ef\Humidity_Sensor_Statictics\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\nimmy\AppData\Local\Temp\c56a6f28-6198-4874-a1cb-de27eb9634ef_akka-quickstart-scala.zip.4ef\Humidity_Sensor_Statictics\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	SensorReportAnalyzer.class
+[debug] 	SensorReportAnalyzer$.class
+[debug] 	SensorReportAnalyzer$Measurement.class
+[debug] 	SensorReportAnalyzer$Measurement$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\nimmy\AppData\Local\Temp\c56a6f28-6198-4874-a1cb-de27eb9634ef_akka-quickstart-scala.zip.4ef\Humidity_Sensor_Statictics\target\scala-2.12\classes.bak

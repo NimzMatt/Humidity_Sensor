@@ -1,0 +1,9 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\nimmy\AppData\Local\Temp\c56a6f28-6198-4874-a1cb-de27eb9634ef_akka-quickstart-scala.zip.4ef\Humidity_Sensor_Statictics\target\scala-2.12\classes ...
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.11. Compiling...
+[info]   Compilation completed in 7.656s.
+[info] done compiling
+[success] Total time: 10 s, completed 31-Mar-2024, 3:43:44 PM
+[debug] > Exec(idea-shell, None, None)
